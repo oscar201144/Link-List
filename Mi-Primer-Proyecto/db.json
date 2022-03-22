@@ -10,13 +10,31 @@
       "id": 3,
       "Text": "Investigar Boostrap",
       "day": "Agosto 5 a las 19:00",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 4,
       "Text": "leer mi libro favorito",
       "day": "Agosto 5 a las 21:00",
       "reminder": true
+    },
+    {
+      "Text": "Nueva Tarea",
+      "day": "Mañana",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "Text": "Nueva Tarea",
+      "day": "Mañana",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "Text": "Nueva Tarea",
+      "day": "Mañana",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
