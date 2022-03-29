@@ -1,30 +1,6 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "Text": "Hacer las compras",
-      "day": "Agosto 5 a las 17:00",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "Text": "Investigar Boostrap",
-      "day": "Agosto 5 a las 19:00",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "Text": "leer mi libro favorito",
-      "day": "Agosto 5 a las 21:00",
-      "reminder": true
-    },
-    {
-      "Text": "Nueva Tarea",
-      "day": "Mañana",
-      "reminder": true,
-      "id": 5
-    },
-    {
       "Text": "Nueva Tarea",
       "day": "Mañana",
       "reminder": true,
@@ -35,6 +11,24 @@
       "day": "Mañana",
       "reminder": false,
       "id": 7
+    },
+    {
+      "Text": "arg progrmama",
+      "day": "",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "Text": "arg progrmama",
+      "day": "Mañana",
+      "reminder": false,
+      "id": 9
+    },
+    {
+      "Text": "arg progrmama",
+      "day": "Mañana",
+      "reminder": true,
+      "id": 10
     }
   ]
 }
